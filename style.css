@@ -1,0 +1,7 @@
+.hero-section {
+    background: url('https://images.unsplash.com/photo-1602231993311-c5d3e3ff7c64') no-repeat center center/cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
